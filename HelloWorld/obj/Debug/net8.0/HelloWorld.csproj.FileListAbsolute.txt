@@ -1,0 +1,14 @@
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
