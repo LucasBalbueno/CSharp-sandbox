@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/HelloWorld.csproj": {}
+    "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/HelloWorld.csproj": {
+    "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/Users/lucasbalbueno/.nuget/packages/",
-        "outputPath": "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/PrimeiroProjeto/HelloWorld/obj/",
+        "outputPath": "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucasbalbueno/.nuget/NuGet/NuGet.Config"
