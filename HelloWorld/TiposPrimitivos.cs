@@ -113,5 +113,33 @@ public class TiposPrimitivos
 
         Console.WriteLine(dinamicaComValores);
         // Sou uma string dinamica e isso irá mudar => Valor1 e isso também irá mudar => Valor2
+
+        nivelDeDificuldade2 dificuldade = nivelDeDificuldade2.Alto;
+
+        // podemos exibir o número correspondente do enum se fizermos um cast:
+        int dificuldadeInteiro = (int)dificuldade;
+
+        Console.WriteLine(dificuldade); //imprime "Alto";
+        Console.WriteLine(dificuldadeInteiro); //imprime "2";
+
+
+        // TIPO NULL;
+        // para permitir que a variavel receba o valor null devemos usar o ?;
+        int? idade = null;
+        
+        // retorna true ou false se idade possui valor diferente de null;
+        bool informouIdade = idade.HasValue;
 ;    }
+
+        // TIPO ENUM
+        // No tipo enum definimos as opções possiveis para escolher;
+        // O Enum deve ser criar fora de uma função
+    enum nivelDeDificuldade {Baixo, Médio, Alto}; // Não devemos colocar entres "";
+
+    // também podemos atribuir numeros aos valores do enum. Contando que os numeros sejam positivos e não repetidos;
+    enum nivelDeDificuldade2 {
+        Baixo = 0,
+        Médio = 1,
+        Alto = 2
+    }; // Não devemos colocar entres "";
 }
