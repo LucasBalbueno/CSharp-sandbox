@@ -1,7 +1,6 @@
-using System;
 using System.Globalization;
 
-namespace HelloWorld;
+namespace HelloWorld.TiposPrimitivos;
 
 public class Dates
 {

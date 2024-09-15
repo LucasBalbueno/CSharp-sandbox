@@ -1,44 +1,11 @@
 using System;
 using System.Text;
 
-namespace HelloWorld;
+namespace HelloWorld.TiposPrimitivos;
 
-public class TiposPrimitivos
+public class TipoText
 {
-    static void Main () {
-        // TIPOS PRIMITIVOS NUMERICOS INTEIROS VARIAM APENAS O SEU INTERVALO DE VALORES, ALGUNS TIPOS ACEITAM VALORES MENORES E OUTROS MAIORES;
-
-        // inteiros positivos e negativos;
-        int numero1 = -7;
-
-        // inteiros unsigned (sem sinal). Apenas inteiros positivos;
-        uint numero2 = 1;
-
-        // inteito positivos e negativos com um intervalo muito extenso;
-        long numero3 = 8;
-
-
-        // TIPOS PRIMITIVOS NUMERICOS FLUTUANTES / DECIMAIS VARIAM APENAS A SUA PRECISÃO DAS CASAS FLUTUANTES;
-
-        // decimal com precisão de 15 a 17 digitos após o . (equivalente a 8 bytes);
-        double numero4 = 3.14;
-
-        // decimal com precisão de 6 a 9 digitos após o . (equivalente a 4 bytes);
-        // precisa adicionar o sufixo f para implicitar que é float;
-        float numero5 = 3.14f;
-
-        // decimal com precisão de 28 a 29 digitos após o . (equivalente a 16 bytes);
-        // precisa adicionar o sufixo m para implicitar que é um decimal;
-        decimal numero6 = 3.14m;
-
-
-        // TIPOS BOOLEANOS
-
-        // retornam apenas valores verdadeiros e falsos, é como representar 0 e 1, apagado e acesso;
-        bool value1 = true;
-        bool value2 = false;
-
-
+    static void Main() {
         // TIPOS DE TEXTO
 
         // tipo que armazena apenas um caractere da tabela ASCII (letra ou numero) desde que esteja em aspas simples;
@@ -64,6 +31,8 @@ public class TiposPrimitivos
         bool existe = textoSemEspaco.Contains("w");
         // Equals() retorna true ou false se a string é identico a string passada como parâmetro;
         bool igual = textoSemEspaco.Equals("Espaço");
+
+        // ===================================
 
         // OPERAÇOES COM TEXTOS
 
@@ -113,33 +82,5 @@ public class TiposPrimitivos
 
         Console.WriteLine(dinamicaComValores);
         // Sou uma string dinamica e isso irá mudar => Valor1 e isso também irá mudar => Valor2
-
-        nivelDeDificuldade2 dificuldade = nivelDeDificuldade2.Alto;
-
-        // podemos exibir o número correspondente do enum se fizermos um cast:
-        int dificuldadeInteiro = (int)dificuldade;
-
-        Console.WriteLine(dificuldade); //imprime "Alto";
-        Console.WriteLine(dificuldadeInteiro); //imprime "2";
-
-
-        // TIPO NULL;
-        // para permitir que a variavel receba o valor null devemos usar o ?;
-        int? idade = null;
-        
-        // retorna true ou false se idade possui valor diferente de null;
-        bool informouIdade = idade.HasValue;
-;    }
-
-        // TIPO ENUM
-        // No tipo enum definimos as opções possiveis para escolher;
-        // O Enum deve ser criar fora de uma função
-    enum nivelDeDificuldade {Baixo, Médio, Alto}; // Não devemos colocar entres "";
-
-    // também podemos atribuir numeros aos valores do enum. Contando que os numeros sejam positivos e não repetidos;
-    enum nivelDeDificuldade2 {
-        Baixo = 0,
-        Médio = 1,
-        Alto = 2
-    }; // Não devemos colocar entres "";
+    }
 }
