@@ -36,5 +36,4 @@ public class Funcoes
 
     // Nas funções de uma linha de código tem uma forma mais simples de sintaxe para escreve-las;
     public void funcaoUmaLinha (bool value) => Console.WriteLine(value);
-
 }
