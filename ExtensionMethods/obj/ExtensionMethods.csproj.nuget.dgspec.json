@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/Colecoes/Colecoes.csproj": {}
+    "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/ExtensionMethods/ExtensionMethods.csproj": {}
   },
   "projects": {
-    "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/Colecoes/Colecoes.csproj": {
+    "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/ExtensionMethods/ExtensionMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/Colecoes/Colecoes.csproj",
-        "projectName": "Colecoes",
-        "projectPath": "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/Colecoes/Colecoes.csproj",
+        "projectUniqueName": "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/ExtensionMethods/ExtensionMethods.csproj",
+        "projectName": "ExtensionMethods",
+        "projectPath": "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/ExtensionMethods/ExtensionMethods.csproj",
         "packagesPath": "/Users/lucasbalbueno/.nuget/packages/",
-        "outputPath": "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/Colecoes/obj/",
+        "outputPath": "/Users/lucasbalbueno/Documentos/Programação/Projetos C#/CSharp-sandbox/ExtensionMethods/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucasbalbueno/.nuget/NuGet/NuGet.Config"
