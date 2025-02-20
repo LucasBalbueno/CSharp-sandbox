@@ -1,0 +1,6 @@
+@LifeCycles_HostAddress = http://localhost:5090
+
+GET {{LifeCycles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
