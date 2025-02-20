@@ -4,7 +4,7 @@ namespace HelloWorld.TiposPrimitivos;
 
 public class Dates
 {
-    static void Main () {
+    static void Program () {
         //  DATAS 
         // Dentro das datas temos duas funções principais, o DateOnly() e o DateTime();
         // A principal diferença deles é que o DateOnly sempre mostrará a data que foi definida e não pode ser formatada nem alterada por fusos horáios;

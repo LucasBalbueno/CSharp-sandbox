@@ -4,7 +4,7 @@ namespace HelloWorld.Colecoes;
 
 public class Arrays
 {
-    static void Main()
+    static void Program()
     {
         // ARRAYS
 

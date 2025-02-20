@@ -4,7 +4,7 @@ namespace HelloWorld.Colecoes;
 
 public class Dicionarios
 {
-    static void Main () {
+    static void Program () {
         // DICIONÁRIOS
         
         // Os dicionários possuem um valor associado a uma chave, sendo que a chave deve ter um valor único, sem ter duplicatas;

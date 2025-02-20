@@ -4,7 +4,7 @@ namespace HelloWorld.Colecoes;
 
 public class Listas
 {
-    static void Main () {
+    static void Program () {
         // LISTAS
 
         // a Coleção mais usada no dia a dia;

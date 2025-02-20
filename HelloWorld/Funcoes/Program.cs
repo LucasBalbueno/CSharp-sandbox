@@ -4,7 +4,7 @@ namespace HelloWorld.Funcoes;
 
 public class Program
 {
-    static void Main() {
+    static void RunFunctions() {
         // MODIFICADORES DE ACESSO
 
         // instanciando a classe ModificadoresDeAcesso;

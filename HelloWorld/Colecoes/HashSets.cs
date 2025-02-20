@@ -4,7 +4,7 @@ namespace HelloWorld.Colecoes;
 
 public class HashSets
 {
-    static void Main() {
+    static void Program() {
         // HASH SETS
 
         // Hash Sets é uma lista de valores unicos

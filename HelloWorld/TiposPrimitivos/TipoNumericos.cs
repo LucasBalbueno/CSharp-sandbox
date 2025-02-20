@@ -4,7 +4,7 @@ namespace HelloWorld.TiposPrimitivos;
 
 public class TipoNumericos
 {
-    static void Main() {
+    static void Program() {
         // TIPOS PRIMITIVOS NUMERICOS INTEIROS;
         // VARIAM APENAS O SEU INTERVALO DE VALORES, ALGUNS TIPOS ACEITAM VALORES MENORES E OUTROS MAIORES;
 

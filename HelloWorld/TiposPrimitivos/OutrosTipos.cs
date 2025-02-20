@@ -16,7 +16,7 @@ public class OutrosTipos
         Alto = 2
     }; // Não devemos colocar entres "";
 
-    static void Main() {
+    static void Program() {
         // ENUM
 
         // devemos instanciar o enum dentro da função para usá-lo;

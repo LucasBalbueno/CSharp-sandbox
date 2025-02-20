@@ -5,7 +5,7 @@ namespace HelloWorld.TiposPrimitivos;
 
 public class TipoText
 {
-    static void Main() {
+    static void Program() {
         // TIPOS DE TEXTO
 
         // tipo que armazena apenas um caractere da tabela ASCII (letra ou numero) desde que esteja em aspas simples;
